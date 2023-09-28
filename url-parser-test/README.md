@@ -38,8 +38,6 @@ const urlInstance = '/6/api/listings/3?sort=desc&limit=10';
 
 const result = urlParser(urlFormatString, urlInstance);
 console.log(result);
-//outputs:
-/*
 {
 version: '6',
 collection: 'listings',
@@ -47,7 +45,6 @@ id: '3',
 sort: 'desc',
 limit: '10',
 }
-*/
 ```
 
 
