@@ -6,19 +6,12 @@ This JavaScript utility function extracts variable parts of a URL format string 
 
 Solution can be found under parser.js file [ parseUrl ]
 
-url-parser-test/
-│
-├── parser.js # JavaScript file containing the URL format string parser function
-│
-├── index.js # JavaScript file main file that make use of urlParse function 
-│
-├── test/
-│ └── test.js # test file with test cases for the parser
-│
-├── package.json # Node.js project configuration
-│
-└── README.md # This README file
-
+- `url-parser/`: 
+    - `parser.js`: Where solution to excercise lives.
+    - `index.js`: main project file.
+- `test/`: Contains unit tests for the project.
+  - `test.js`: The unit test file for testing the parser function
+- `package.json`: Project metadata and dependencies.
 
 ## Tests Usage
 
@@ -27,7 +20,7 @@ url-parser-test/
 
 ## Function Explanation :rocket:
 
-The urlParser function takes two arguments:
+The urlParser function takes two argumnts:
 
     urlFormatString: A string that describes the format of a URL. It can contain constant parts and variable parts, where variable parts start with a colon (:).
 
