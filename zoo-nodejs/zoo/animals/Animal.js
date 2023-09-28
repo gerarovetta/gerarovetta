@@ -1,6 +1,7 @@
 class Animal {
     /**
      * Create an animal instance.
+     * @param {string} name - Name of the animal.
      * @param {string} sound - The sound the animal makes.
      */
     constructor(name, sound) {
