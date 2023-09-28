@@ -1,7 +1,7 @@
 # Hi, I'm Gerardo Rovetta! 👋
 
 ## About Me
-I'm a passionate developer interested in nodeJS and web3 apps!!!
+I'm a passionate developer interested in Fullstack development! [ React, NextJs, nodeJs, express, nestJs ]
 
 ## Get in Touch
 You can reach me via:
