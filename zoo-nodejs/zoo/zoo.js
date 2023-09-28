@@ -11,7 +11,7 @@ class Zoo {
     this.tiger = new Tiger();
     this.elephant = new Elephant();
     this.coati = new Coati();
-    // Add other animal instances as needed * See notes on Readme
+    // Add other animal instances as needed 
   }
   // Here we can define other methods or functionality to manage the zoo
 }
