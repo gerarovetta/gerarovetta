@@ -1,5 +1,5 @@
 /**
- * * Make the animal speak by adding its sound to the input.
+* 
 * @param {string} input - A string that describes the format of a URL
 * @param {string} input - A URL instance that matches the format specified in urlFormatString
 * @returns {} 
