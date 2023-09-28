@@ -8,22 +8,18 @@ type of animal.
 
 ## Project Structure :rocket:
 
-zoo-nodejs
-├── zoo/
-│   ├── animals/
-│   │   ├── Animal.js
-│   │   ├── Lion.js
-│   │   ├── Tiger.js
-│   │   ├── Elephant.js
-│   │   ├── ... 
-│   ├── zoo.js
-├── test/
-│   ├── test.js
-├── index.js
-├── package.json
-├── .eslintrc.json
-├── node_modules/
-
+- `zoo-nodejs/`: Contains the source code for the project.
+  - `animals/`: Houses all animal-related classes.
+    - `Animal.js`: The base class for all animal types.
+    - `Lion.js`: A class representing lions.
+    - `Tiger.js`: A class representing tigers.
+    - `Elephant.js`: A class representing elephants.
+    - ... 
+  - `zoo.js`: A class for the zoo representation.
+- `index.js`: main project file.
+- `test/`: Contains unit tests for the project.
+  - `test.js`: The unit test file for testing the zoo and animal classes.
+- `package.json`: Project metadata and dependencies.
 
 ## Usage
 
