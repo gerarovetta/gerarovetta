@@ -1,0 +1,20 @@
+{
+  "name": "zoo-nodejs",
+  "version": "1.0.0",
+  "description": "Zoo model Javascript",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "zoo-model-js"
+  },
+  "author": "Gerardo Rovetta",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.9",
+    "mocha": "^10.2.0"
+  }
+}
